@@ -2,8 +2,15 @@
 
 Question: 1
 DES implementation in c
-To DES.c main file the input file is ("input.txt") 
+To DES.c main file the input file is ("input.txt") and key input is ("key.txt")
 And it will give output encrypted message.
+And also decrypted message.
+The input is first converted into bits format and stored in  "bits.txt"
+And "bits.txt" is passed into algorithm and converted into cipher text and stored in "cipher.txt"(basically a encrypted text)
+And "Cipher.txt" is a input on decryption side and passed to decryption algorithm and will produce output in "decrypted.txt"
+And "decrypted.txt" will be in bits format and is converted into plain text and stored in "result.txt"(bascially which is a orginal text)
+
+
 
 
 Question 2

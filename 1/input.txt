@@ -1,0 +1,5 @@
+Looking from an overall perspective, we can conclude the blowfish algorithm is more 
+secure than DES, and produces best results for less processing time and rounds.
+To increase the key size of the blowfish algorithm from 128 to 448, it gives more
+privacy to the messages and provides high end data security when transmitting over
+any unsafe medium. 
